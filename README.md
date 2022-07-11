@@ -1,6 +1,6 @@
 ### Olá, sou o Iago Molina! 👋
 
-- 🔭 Atualmente trabalho com Front-End, mas com previsões de estudo para o back também;
+- 🔭 Atualmente estou com foco em Front-End, mas com previsões de estudo para o back também;
 - 🌱 Estou aprendendo HTML, CSS, JAVASCRIPT (Node.js, jQuery, Ajax e Json);
 <div align="center">
   <a href="https://github.com/molinaiago">
