@@ -1,4 +1,4 @@
-### Olá, sou o Iago Molina! 👋
+### Olá, me chamo Iago Molina Camargo! 👋
 
 - 🔭 Atualmente estou com foco em Front-End, mas com previsões de estudo para o back também;
 - 🌱 Estou aprendendo HTML, CSS, JAVASCRIPT (Node.js, jQuery, Ajax e Json);
