@@ -11,13 +11,12 @@
   <a href="https://www.linkedin.com/in/molinaiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=duibarr.duibarr&left_text=Profile%20Visitors" alt="visitor badge"/></p>
 
 ### 🔥 Streak Stats
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duibarr&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=molinaiago)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=molinaiago&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 ## 🛠️ My Skills
