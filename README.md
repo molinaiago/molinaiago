@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iago Molina Camargo</h1>
-<h2 align="center">🔭Atualmente estudando => BANCO DE DADOS ORACLE</h3>
+<h2 align="center">🔭Atualmente estudando :=
+<h3>                                        - BANCO DE DADOS ORACLE</h3>
 <h3>                                        - API's</h3>
 <h3>                                        - Oracle Integration</h3>
 <h3>                                        - Oracle Process</h3>
