@@ -45,9 +45,6 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
    &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
 &emsp; 
 </p>
 
@@ -78,10 +75,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=duibarr&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
+    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=molinaiago&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duibarr&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=molinaiago&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
 	</p>
   <br/>
   </p>
@@ -90,7 +87,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/duibarr"><img alt="Eduardo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=duibarr&custom_title=Eduardo%20Ibarr's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/molinaiago"><img alt="Iago Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=molinaiago&custom_title=Iago%20Molina%20Camargo's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
