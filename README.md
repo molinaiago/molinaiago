@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Iago Molina Camargo</h1>
-<h3 align="center">🔭 Atualmente estou com foco em Front-End, mas com previsões de</h3>
+<h3 align="center">🔭Atualmente estudando - BANCO DE DADOS ORACLE
+                                           - API's
+                                           - Oracle Integration
+                                           - Oracle Process
+                                           - Oracle Insights
+                                           - Oracle VBCS
+                                           - OIC Pipeline
+
+Sou estagiário na Aggrandize, uma empresa brasileira de Pelotas, Rio Grande do Sul. https://aggrandize.com.br
+[Aggrandize]:
+Atuamos com serviços para infraestrutura e desenvolvimento de integrações em ambientes On-Premises & MultiCloud.
+São serviços especializados para os produtos de nossos principais parceiros: Oracle, Confluent, WSO2 e Commvault.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=molinaiago&label=Profile%20views&color=0e75b6&style=flat" alt="molinaiago" /> </p>
 
