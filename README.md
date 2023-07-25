@@ -12,6 +12,9 @@ Sou estagiário na Aggrandize, uma empresa brasileira de Pelotas, Rio Grande do 
 [Aggrandize]:
 Atuamos com serviços para infraestrutura e desenvolvimento de integrações em ambientes On-Premises & MultiCloud.
 São serviços especializados para os produtos de nossos principais parceiros: Oracle, Confluent, WSO2 e Commvault.
+
+Atualmente, desenvolvedor de integrações certificado! 
+https://www.linkedin.com/posts/molinaiago_oracle-cloud-infrastructure-2023-certified-activity-7088247777784213504-vI9S?utm_source=share&utm_medium=member_desktop
 </h2>
 
  ## 🙋‍♀️ Let's Connect
