@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: C, Java and Kotlin
+  Languages: LowCode, Java, SQL & PL/SQL.
 </p>
 
 <p align="left">
